@@ -5,6 +5,7 @@ import { BrowserRouter, Link, Route, Switch } from 'react-router-dom';
 import Penny from './Penny';
 import WBNP from './WBNP';
 
+
 const styles = {
   textDecoration: 'underline',
   textAlign: 'center',
